@@ -1,0 +1,1 @@
+This project is a simple weather application that provides current weather updates for user-selected locations. It features a frontend built with HTML, CSS, and JavaScript, and a backend powered by Node.js. The app is dockerized for easy deployment.
