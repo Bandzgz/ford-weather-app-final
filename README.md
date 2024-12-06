@@ -48,7 +48,10 @@ Future Enhancements
  2) Integrate forecasts and historical weather data.
  3) Enable dark mode for better usability at night.
 
+
+
     Contributing
+
 Contributions are welcome! To contribute:
 
 1)Fork the repository.
