@@ -50,7 +50,6 @@ Future Enhancements
 
 
 
-    Contributing
 
 Contributions are welcome! To contribute:
 
